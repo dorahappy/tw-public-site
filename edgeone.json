@@ -1,0 +1,4 @@
+{
+  "outputDirectory": "public",
+  "buildCommand": "test -f public/index.html"
+}
