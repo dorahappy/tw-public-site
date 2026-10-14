@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-PRODID:-//双晓漫游记//旅行检查提醒//ZH-CN
-X-WR-CALNAME:双晓漫游记·行前与衔接提醒
+PRODID:-//TW的旅行日记//旅行检查提醒//ZH-CN
+X-WR-CALNAME:TW的旅行日记·行前与衔接提醒
 BEGIN:VEVENT
 UID:docs-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260914T120000Z
 DTEND:20260914T124500Z
-SUMMARY:双晓旅行：证件与自驾材料确认
+SUMMARY:TW的旅行日记：证件与自驾材料确认
 LOCATION:家中
-DESCRIPTION:核对两人护照、签证、保险；主驾驶准备中
- 国驾照原件、意大利语官方翻译件或合规国际驾驶许
- 可、本人实体信用卡。
+DESCRIPTION:核对两人护照、签证、保险；主驾驶准备中国驾
+ 照原件、意大利语官方翻译件或合规国际驾驶许可、本
+ 人实体信用卡。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -25,10 +25,10 @@ UID:payments-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260918T120000Z
 DTEND:20260918T124500Z
-SUMMARY:双晓旅行：支付、网络与现金确认
+SUMMARY:TW的旅行日记：支付、网络与现金确认
 LOCATION:家中
-DESCRIPTION:确认实体 Visa 或 Mastercard 可境外使用、租车
- 押金额度与 PIN；开通欧洲流量，准备少量欧元。
+DESCRIPTION:确认实体 Visa 或 Mastercard 可境外使用、租车押金
+ 额度与 PIN；开通欧洲流量，准备少量欧元。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -40,10 +40,10 @@ UID:weather-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260921T020000Z
 DTEND:20260921T024500Z
-SUMMARY:双晓旅行：山区天气与运营复核
+SUMMARY:TW的旅行日记：山区天气与运营复核
 LOCATION:家中
-DESCRIPTION:查看多洛米蒂天气、Seceda 与 Resciesa 缆车公
- 告；复核航班、酒店、接送与租车门店。
+DESCRIPTION:查看多洛米蒂天气、Seceda 与 Resciesa 缆车公告；
+ 复核航班、酒店、接送与租车门店。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -55,10 +55,10 @@ UID:packing-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260923T120000Z
 DTEND:20260923T130000Z
-SUMMARY:双晓旅行：完成装箱与离线备份
+SUMMARY:TW的旅行日记：完成装箱与离线备份
 LOCATION:家中
-DESCRIPTION:两台手机保存门票、酒店、保单和联系人；
- 设备充满电，确认充电宝 CCC 标识，称量行李。
+DESCRIPTION:两台手机保存门票、酒店、保单和联系人；设备
+ 充满电，确认充电宝 CCC 标识，称量行李。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -70,10 +70,10 @@ UID:hangzhou-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260924T103000Z
 DTEND:20260924T110000Z
-SUMMARY:双晓旅行：下班出发前检查随身包
+SUMMARY:TW的旅行日记：下班出发前检查随身包
 LOCATION:杭州
-DESCRIPTION:护照、钱包、手机、药品、充电宝、G3092 信
- 息与接站司机信息全部随身。
+DESCRIPTION:护照、钱包、手机、药品、充电宝、G3092 信息与
+ 接站司机信息全部随身。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -85,10 +85,10 @@ UID:hongqiao-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260924T134500Z
 DTEND:20260924T141500Z
-SUMMARY:双晓旅行：抵达虹桥前联系接站司机
+SUMMARY:TW的旅行日记：抵达虹桥前联系接站司机
 LOCATION:上海虹桥站
-DESCRIPTION:确认上车点、司机电话与车牌；21:59 到站后
- 前往祝桥全季。
+DESCRIPTION:确认上车点、司机电话与车牌；21:59 到站后前往
+ 祝桥全季。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -100,10 +100,10 @@ UID:pvg-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260924T225000Z
 DTEND:20260924T232000Z
-SUMMARY:双晓旅行：祝桥全季退房与送机检查
+SUMMARY:TW的旅行日记：祝桥全季退房与送机检查
 LOCATION:全季酒店上海浦东机场祝桥店
-DESCRIPTION:两人各自点名护照、手机和钱包；07:30 免费
- 送机，托运行李直挂米兰。
+DESCRIPTION:两人各自点名护照、手机和钱包；07:30 免费送机
+ ，托运行李直挂米兰。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -115,10 +115,10 @@ UID:rental-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260926T053000Z
 DTEND:20260926T060000Z
-SUMMARY:双晓旅行：Sicily by Car 取车材料检查
+SUMMARY:TW的旅行日记：Sicily by Car 取车材料检查
 LOCATION:米兰马尔彭萨机场 T2
-DESCRIPTION:带齐驾照原件、官方翻译或许可、护照、预
- 订单和主驾驶实体信用卡；拍车况、油量与里程。
+DESCRIPTION:带齐驾照原件、官方翻译或许可、护照、预订单
+ 和主驾驶实体信用卡；拍车况、油量与里程。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -130,10 +130,10 @@ UID:dolomites-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260928T083000Z
 DTEND:20260928T090000Z
-SUMMARY:双晓旅行：准备离开多洛米蒂
+SUMMARY:TW的旅行日记：准备离开多洛米蒂
 LOCATION:Resciesa
-DESCRIPTION:10:30 左右下山，检查油量、ZTL 与还车路线；
- 最晚中午出发。
+DESCRIPTION:10:30 左右下山，检查油量、ZTL 与还车路线；最
+ 晚中午出发。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -145,10 +145,10 @@ UID:florence-train-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20260930T123000Z
 DTEND:20260930T130000Z
-SUMMARY:双晓旅行：佛罗伦萨前往火车站
+SUMMARY:TW的旅行日记：佛罗伦萨前往火车站
 LOCATION:Firenze Santa Maria Novella
-DESCRIPTION:领取行李，核对 Italo 8959 电子票；15:30 前抵
- 达车站。
+DESCRIPTION:领取行李，核对 Italo 8959 电子票；15:30 前抵达车
+ 站。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -160,10 +160,10 @@ UID:rome-flight-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20261002T103000Z
 DTEND:20261002T110000Z
-SUMMARY:双晓旅行：罗马飞巴黎前检查
+SUMMARY:TW的旅行日记：罗马飞巴黎前检查
 LOCATION:罗马
-DESCRIPTION:取回行李，核对 TO3917 与 FCO 航站信息；最晚
-  13:30 离开市区。
+DESCRIPTION:取回行李，核对 TO3917 与 FCO 航站信息；最晚 13:3
+ 0 离开市区。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -175,10 +175,10 @@ UID:orly-hotel-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20261004T143000Z
 DTEND:20261004T150000Z
-SUMMARY:双晓旅行：取行李并前往奥利机场酒店
+SUMMARY:TW的旅行日记：取行李并前往奥利机场酒店
 LOCATION:巴黎
-DESCRIPTION:结束市区活动，取回行李，前往 ibis Paris Coeu
- r d’Orly Airport。
+DESCRIPTION:结束市区活动，取回行李，前往 ibis Paris Coeur d
+ ’Orly Airport。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -190,10 +190,10 @@ UID:paris-flight-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20261005T030000Z
 DTEND:20261005T033000Z
-SUMMARY:双晓旅行：巴黎飞米兰晨间检查
+SUMMARY:TW的旅行日记：巴黎飞米兰晨间检查
 LOCATION:ibis Paris Coeur d’Orly Airport
-DESCRIPTION:护照、手机、钱包与全部行李点名；前往 ORY
-  T3 搭乘 07:30 的 TO3940。
+DESCRIPTION:护照、手机、钱包与全部行李点名；前往 ORY T3 
+ 搭乘 07:30 的 TO3940。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -205,10 +205,10 @@ UID:milan-return-2026@shuangxiao.travel
 DTSTAMP:20260913T120000Z
 DTSTART:20261005T150000Z
 DTEND:20261005T153000Z
-SUMMARY:双晓旅行：返回马尔彭萨机场
+SUMMARY:TW的旅行日记：返回马尔彭萨机场
 LOCATION:米兰市区
-DESCRIPTION:结束市区活动，前往 MXP T1；先领取寄存行李
- ，目标 19:15 前回到航站楼。
+DESCRIPTION:结束市区活动，前往 MXP T1；先领取寄存行李，
+ 目标 19:15 前回到航站楼。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
